@@ -19,9 +19,10 @@ Remove the null values from the data
 Save the Clean data to the file
 
 # CODE and OUTPUT
-import pandas as pd
+``import pandas as pd
 df=pd.read_csv("SAMPLEIDS.csv")
 df
+```
 <img width="1141" height="740" alt="image" src="https://github.com/user-attachments/assets/5e5a7e06-b11a-4460-b152-1009aadc815e" />
 df.head(7)
 
